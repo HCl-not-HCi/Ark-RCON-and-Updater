@@ -6,8 +6,11 @@ Important: This tool was made to work with Ark Survival Launcher/Ark Remote. At 
 At the moment the gui looks pretty ugly, but the most things are working correctly (i hope).
 
 Features:
+
   -restarts and updates your server at a specific time or interval (optional warning messages before restart, saves world, kills process, launches steamcmd, updates server and launches Ark Remote or other program again)
   -broadcasts messages via broadcast or chat at a specific time or in a specific interval
   
   Planned Features:
+  
+  
   -Automatic updating if update was found (intelligent break and warnings before update if players are on server)
