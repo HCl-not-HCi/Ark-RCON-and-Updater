@@ -1,0 +1,17 @@
+D:\Downloads\ARK-Dedicated-Server-Tool-In-Development\ARK-Dedicated-Server-Tool-In-Development\QueryMaster\bin\Debug\QueryMaster.dll
+D:\Downloads\ARK-Dedicated-Server-Tool-In-Development\ARK-Dedicated-Server-Tool-In-Development\QueryMaster\bin\Debug\QueryMaster.pdb
+D:\Downloads\ARK-Dedicated-Server-Tool-In-Development\ARK-Dedicated-Server-Tool-In-Development\QueryMaster\bin\Debug\Ionic.BZip2.dll
+D:\Downloads\ARK-Dedicated-Server-Tool-In-Development\ARK-Dedicated-Server-Tool-In-Development\QueryMaster\obj\Debug\QueryMaster.csprojResolveAssemblyReference.cache
+D:\Downloads\ARK-Dedicated-Server-Tool-In-Development\ARK-Dedicated-Server-Tool-In-Development\QueryMaster\obj\Debug\QueryMaster.dll
+D:\Downloads\ARK-Dedicated-Server-Tool-In-Development\ARK-Dedicated-Server-Tool-In-Development\QueryMaster\obj\Debug\QueryMaster.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\QueryMaster.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\QueryMaster.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\Ionic.BZip2.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\obj\Debug\QueryMaster.csprojResolveAssemblyReference.cache
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\obj\Debug\QueryMaster.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\obj\Debug\QueryMaster.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\protobuf-net.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\SteamKit2.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\protobuf-net.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\protobuf-net.xml
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\QueryMaster\bin\Debug\SteamKit2.xml

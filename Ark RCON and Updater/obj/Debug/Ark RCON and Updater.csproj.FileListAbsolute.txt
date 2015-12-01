@@ -1,0 +1,22 @@
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\Ark RCON and Updater.exe.config
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark RCON and Updater.csprojResolveAssemblyReference.cache
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark_RCON_and_Updater.Form1.resources
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark_RCON_and_Updater.Properties.Resources.resources
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark RCON and Updater.csproj.GenerateResource.Cache
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\Ark RCON and Updater.exe
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\Ark RCON and Updater.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\QueryMaster.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\Ionic.BZip2.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\QueryMaster.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark RCON and Updater.exe
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark RCON and Updater.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark_RCON_and_Updater.AddServer.resources
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark_RCON_and_Updater.ChooseServer.resources
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark_RCON_and_Updater.RCONPwInput.resources
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark_RCON_and_Updater.EditServerManagementSettings.resources
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\obj\Debug\Ark_RCON_and_Updater.AddSchedule.resources
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\protobuf-net.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\SteamKit2.dll
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\protobuf-net.pdb
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\protobuf-net.xml
+E:\mwsch\Documents\Dokumente\Programmieren\Programmiert\C#\Ark RCON and Updater\Ark RCON and Updater\bin\Debug\SteamKit2.xml
