@@ -11,3 +11,9 @@ Features:
   
 Planned Features:
   -Automatic updating if update was found (intelligent break and warnings before update if players are on server)
+  
+If you have any ideas for features, let me know!
+
+Steam: http://steamcommunity.com/profiles/76561198055388865/
+
+License: GNU GPL v3.0, more information in license file
