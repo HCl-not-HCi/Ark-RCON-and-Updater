@@ -8,6 +8,7 @@ At the moment the gui looks pretty ugly, but the most things are working correct
 Features:
 
   -restarts and updates your server at a specific time or interval (optional warning messages before restart, saves world, kills process, launches steamcmd, updates server and launches Ark Remote or other program again)
+  
   -broadcasts messages via broadcast or chat at a specific time or in a specific interval
   
   Planned Features:
